@@ -1,1 +1,2 @@
-# first-github
+hello word 
+print hello word
